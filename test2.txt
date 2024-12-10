@@ -1,0 +1,2 @@
+ASCII for v flag
+Display non-printing characters so they are visible
